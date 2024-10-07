@@ -1,0 +1,6 @@
+.all-users {
+    text-decoration: underline;
+}
+.all-users:hover {
+    cursor: pointer;
+}

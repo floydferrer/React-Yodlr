@@ -1,0 +1,7 @@
+.homepage-nav {
+    text-decoration: underline;
+}
+
+.homepage-nav:hover {
+    cursor: pointer;
+}

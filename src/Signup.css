@@ -1,0 +1,6 @@
+.signup-nav {
+    text-decoration: underline;
+}
+.signup-nav:hover {
+    cursor: pointer;
+}

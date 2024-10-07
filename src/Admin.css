@@ -1,0 +1,6 @@
+.admin-nav {
+    text-decoration: underline;
+}
+.admin-nav:hover {
+    cursor: pointer;
+}
